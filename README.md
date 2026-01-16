@@ -46,7 +46,7 @@ This tool automates the process of discovering login endpoints and testing them 
 
 ### Required Packages
 ```bash
-pip install requests colorama
+pip install requests colorama 
 ```
 
 ## Usage
@@ -106,6 +106,14 @@ The tool uses multiple heuristics to detect vulnerabilities:
 
 - Response Content: Looks for admin-related content in responses
 
+##Demonstration
+
+* PoC 1:
+
+![PoC1](https://github.com/user-attachments/assets/665397f3-8abc-4f57-9a10-47e692a713ae)
+
+* PoC 2:
+
 ## Warning
 This tool is for authorized testing only
 
@@ -115,19 +123,7 @@ This tool is for authorized testing only
 
 = The authors are not responsible for misuse of this tool
 
-## Legal-Disclaimer
-This tool is intended for:
-
-- Security professionals testing their own systems
-
-- Penetration testers with written authorization
-
-- Educational purposes in controlled environments
-
-Always obtain proper authorization before testing any system.
-
 ## Contributing
 Feel free to submit issues, feature requests, or pull requests to improve the tool.
 
-License
-This project is for educational purposes. Use responsibly.
+
