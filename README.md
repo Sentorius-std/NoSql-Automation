@@ -110,7 +110,7 @@ The tool uses multiple heuristics to detect vulnerabilities:
 
 * PoC 1:
 
-![PoC1](https://github.com/user-attachments/assets/665397f3-8abc-4f57-9a10-47e692a713ae)
+https://github.com/user-attachments/assets/665397f3-8abc-4f57-9a10-47e692a713ae
 
 * PoC 2:
 
