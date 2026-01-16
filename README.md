@@ -13,7 +13,6 @@ This tool automates the process of discovering login endpoints and testing them 
 - [Detection-Methods](#Detection-Methods)
 - [Demonstration](#Demonstration)
 - [Warning](#Warning)
-- [Legal-Disclaimer](#Legal-Disclaimer)
 - [Contributing](#Contributing)
   
 ## Features
