@@ -11,6 +11,7 @@ This tool automates the process of discovering login endpoints and testing them 
 - [Usage](#Usage)
 - [How-it-Works](#How-it-works)
 - [Detection-Methods](#Detection-Methods)
+- [Demonstration](#Demonstration)
 - [Warning](#Warning)
 - [Legal-Disclaimer](#Legal-Disclaimer)
 - [Contributing](#Contributing)
@@ -106,13 +107,15 @@ The tool uses multiple heuristics to detect vulnerabilities:
 
 - Response Content: Looks for admin-related content in responses
 
-##Demonstration
+## Demonstration
 
 * PoC 1:
 
 https://github.com/user-attachments/assets/665397f3-8abc-4f57-9a10-47e692a713ae
 
 * PoC 2:
+  
+https://github.com/user-attachments/assets/dba156cc-55ca-44e4-90a4-f533205d23ac
 
 ## Warning
 This tool is for authorized testing only
