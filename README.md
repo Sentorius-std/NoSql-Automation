@@ -123,7 +123,7 @@ This tool is for authorized testing only
 
 - Unauthorized testing is illegal and unethical
 
-= The authors are not responsible for misuse of this tool
+- The authors are not responsible for misuse of this tool
 
 ## Contributing
 Feel free to submit issues, feature requests, or pull requests to improve the tool.
